@@ -1,0 +1,6 @@
+aws*
+terraform*
+.terraform*
+aws
+.terraform/
+.git/
